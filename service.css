@@ -240,11 +240,6 @@ span{
     font-size: 1.7rem;
     color: black;
 }
-
-.typesofvisas .visalist .sameclassvisa span{
-    color: var(--secondary);
-   
-}
 .typesofvisas .visalist .sameclassvisa p{
     padding: 1rem 0;
     color: rgb(85, 78, 78);
@@ -258,6 +253,10 @@ span{
 .typesofvisas .visalist .sameclassvisa a{
     text-decoration: none;
     
+}
+.typesofvisas .visalist .sameclassvisa span{
+    color: var(--secondary);
+   
 }
 .inboundbtn{
     text-align: center;
